@@ -1,0 +1,6 @@
+{
+  "name": "EcoGrid: Clean Energy Transition",
+  "description": "An immersive 3D grid strategy and simulation game powered by Babylon.js. Balance power demand, decommission fossil fuels, harness renewable wind, solar, hydro, and storage, and achieve Net Zero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
